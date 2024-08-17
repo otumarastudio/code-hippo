@@ -1,0 +1,5 @@
+emoji==2.12.1
+prompt-toolkit==3.0.36
+questionary==2.0.1
+typing_extensions==4.12.2
+wcwidth==0.2.13
